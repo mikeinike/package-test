@@ -10,9 +10,9 @@
 
     <distributionManagement>
         <repository>
-            <id>mb-commons</id>
-            <name>Maya-Biorobotics commons packages</name>
-            <url>https://maven.pkg.github.com/Maya-Biorobotics/commons</url>
+            <id>test-packages</id>
+            <name>Testing packages</name>
+            <url>https://maven.pkg.github.com/mikeinike/package-test</url>
         </repository>
     </distributionManagement>
 

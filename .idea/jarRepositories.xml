@@ -7,6 +7,11 @@
       <option name="url" value="https://maven.pkg.github.com/Maya-Biorobotics/commons" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="test-packages" />
+      <option name="name" value="test-packages" />
+      <option name="url" value="https://maven.pkg.github.com/mikeinike/package-test" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="github" />
       <option name="name" value="github" />
       <option name="url" value="https://maven.pkg.github.com/mikeinike/DigitalDesign" />
